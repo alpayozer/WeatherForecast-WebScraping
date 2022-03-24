@@ -1,4 +1,4 @@
-# HavaDurumu-WebScraping
+# WeatherForecast-WebScraping
 # Gerekli kurulumlar
 ## [Firefox Download](https://www.mozilla.org/tr/firefox/new/) linke giderek firefoxu kurmanız gerekiyor.
 
